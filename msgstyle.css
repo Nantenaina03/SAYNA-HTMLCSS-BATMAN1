@@ -1,0 +1,26 @@
+.message {
+    background: linear-gradient(to right, #3f6cc7, #08183e);
+    color: white;
+    text-align: center;
+    padding: 10px;
+    height: 400px;
+    width: 600px;
+  }
+  .interieure {
+    background: linear-gradient(to right, #eddebf , #19587d);
+    margin: 30px auto;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    border-radius: 10px;
+    height: 300px;
+    width: 500px;
+  }
+  p {
+    margin: auto;
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 20px;
+    padding: 120px;
+  }
+  
